@@ -1,0 +1,12 @@
+{
+  "name": "canopy-website",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node backend-server.js",
+    "test": "node --test backend-server.test.js"
+  },
+  "engines": {
+    "node": ">=22.13.0"
+  }
+}
